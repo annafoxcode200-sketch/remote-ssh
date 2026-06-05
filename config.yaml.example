@@ -1,0 +1,12 @@
+server:
+  host: ${host}
+  name: ${name}
+  password: ${password}
+
+ali-ecs:
+  endpoint: ${endpoint} # 阿里云结点
+  instanceId: ${instanceId} # ecs实例id
+  
+  accessKeyId: ${accessKeyId} 
+  accessKeySecret: ${accessKeySecret}
+
